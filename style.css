@@ -1,0 +1,14 @@
+#clock{
+    font-size: 25px;
+    font-weight: bold;
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    background-color: white;
+    
+}
+
+body {
+    background: linear-gradient(to right, #B0E0E6,#8E54E9,#4776E6,#B0E0E6);
+
+}
